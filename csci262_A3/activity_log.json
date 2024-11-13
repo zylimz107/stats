@@ -1,0 +1,82 @@
+[
+  {
+    "Logins": 3,
+    "Time online": 47.79,
+    "Emails sent": 10,
+    "Emails opened": 12,
+    "Emails deleted": 6,
+    "date": "2024-11-13"
+  },
+  {
+    "Logins": 8,
+    "Time online": 81.09,
+    "Emails sent": 11,
+    "Emails opened": 12,
+    "Emails deleted": 9,
+    "date": "2024-11-14"
+  },
+  {
+    "Logins": 6,
+    "Time online": 14.94,
+    "Emails sent": 9,
+    "Emails opened": 13,
+    "Emails deleted": 10,
+    "date": "2024-11-15"
+  },
+  {
+    "Logins": 5,
+    "Time online": 85.06,
+    "Emails sent": 0,
+    "Emails opened": 17,
+    "Emails deleted": 10,
+    "date": "2024-11-16"
+  },
+  {
+    "Logins": 4,
+    "Time online": 73.42,
+    "Emails sent": 6,
+    "Emails opened": 14,
+    "Emails deleted": 9,
+    "date": "2024-11-17"
+  },
+  {
+    "Logins": 6,
+    "Time online": 58.62,
+    "Emails sent": 12,
+    "Emails opened": 14,
+    "Emails deleted": 8,
+    "date": "2024-11-18"
+  },
+  {
+    "Logins": 6,
+    "Time online": 56.18,
+    "Emails sent": 11,
+    "Emails opened": 10,
+    "Emails deleted": 13,
+    "date": "2024-11-19"
+  },
+  {
+    "Logins": 4,
+    "Time online": 39.14,
+    "Emails sent": 10,
+    "Emails opened": 20,
+    "Emails deleted": 12,
+    "date": "2024-11-20"
+  },
+  {
+    "Logins": 5,
+    "Time online": 35.1,
+    "Emails sent": 11,
+    "Emails opened": 16,
+    "Emails deleted": 8,
+    "date": "2024-11-21"
+  },
+  {
+    "Logins": 3,
+    "Time online": 40.09,
+    "Emails sent": 12,
+    "Emails opened": 12,
+    "Emails deleted": 13,
+    "date": "2024-11-22"
+  }
+]
